@@ -16,9 +16,6 @@
 <h3 align="left">I enjoy working on projects that challenge me and allow me to apply my skills creatively. Check out my repositories to see what I've been working on! Feel free to connect with me if you're interested in collaborating or just want to chat about technology, programming, or design!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamskaria&label=Profile%20views&color=0e75b6&style=flat" alt="mariamskaria" /> </p>
-<p align="left">
-<a href="mailto:mariamskaria2028@cs.ajce.in" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/email-open.png" alt="MariamSkaria" height="40" width="40" /></a>
-</p>
 
 - 📫 How to reach me: mariamskaria2028@cs.ajce.in
 
