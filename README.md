@@ -1,13 +1,12 @@
 <h1 align="center">Hey There, I'm Mariam Skaria</h1>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariamSkaria&theme=github-compact&height=300" alt="GitHub Activity Graph">
 <h3 align="left">Hello! I'm a passionate developer with a strong foundation in programming and a keen interest in user experience design. I specialize in Python and SQL, where I enjoy building efficient applications and working with data to derive insights and solve problems. 
-//<h3 align="left">Skills </h3>
+
 <h2><b>Skills</b></h2>
 <h3 align="left">Python: Proficient in using Python for various applications, from web development to data analysis and automation. I love exploring libraries such as Pandas, NumPy, and Flask to create impactful solutions. </h3>
 <h3 align="left">SQL: Experienced in database management and querying with SQL. I enjoy optimizing queries and designing relational databases to efficiently store and retrieve data. </h3>
 
 <h2><b>Currently learning</b></h2>
-<h3 align="left">Currently learning </h3>
 <h3 align="left">Go (Golang): To expand my skill set and enhance my ability to build scalable and high-performance applications. I'm excited about its concurrency features and simplicity. </h3>
 
 <h3 align="left">Interests</h3>
