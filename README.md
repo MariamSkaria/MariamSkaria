@@ -10,7 +10,6 @@
 <h3 align="left">Go (Golang): To expand my skill set and enhance my ability to build scalable and high-performance applications. I'm excited about its concurrency features and simplicity. </h3>
 
 <h2><b>Interests</b></h2>
-<h3 align="left">Interests</h3>
 <h3 align="left">UI/UX Design: I have a growing interest in UI/UX design, and I am eager to learn how to create user-centered interfaces that are not only functional but also aesthetically pleasing. I believe that a good user experience is essential for the success of any application.</h3> 
 
 <h2><b>Projects</b></h2>
