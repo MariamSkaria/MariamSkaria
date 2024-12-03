@@ -30,4 +30,5 @@
 
 <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=MariamSkaria&theme=transparent&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariamskaria&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="mariamskaria" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariamskaria&show_icons=true&locale=en&theme=transparent" alt="mariamskaria" /></p>
