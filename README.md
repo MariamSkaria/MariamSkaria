@@ -1,4 +1,4 @@
-<h1 align="center">Hey There, I'm Mariam Skaria</h1>
+<h1 align="center">Hey There, I'm Mariam Skaria :)</h1>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariamSkaria&theme=github-compact&height=300" alt="GitHub Activity Graph">
 <h3 align="left">Hello! I'm a passionate developer with a strong foundation in programming and a keen interest in user experience design. I specialize in Python and SQL, where I enjoy building efficient applications and working with data to derive insights and solve problems. 
 
