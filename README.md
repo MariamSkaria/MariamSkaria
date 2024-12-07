@@ -20,6 +20,8 @@
 - 📫 How to reach me: mariamskaria2028@cs.ajce.in
 
 <h2><b>Connect with me</b></h2>
+📫 Reach me: mariamskaria2028@cs.ajce.in
+
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mariam-skaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam skaria" height="50" width="140" /></a>
