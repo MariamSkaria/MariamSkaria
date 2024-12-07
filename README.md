@@ -23,9 +23,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mariam-skaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam skaria" height="50" width="140" /></a>
-<a href="mailto:mariamse336@gmail.com">
-  <img align="left" height="50" width="80" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" />
-  
 </p>
 
 <h2><b>Languages and Tools</b></h2>
