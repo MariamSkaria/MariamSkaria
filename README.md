@@ -1,6 +1,6 @@
 <h1 align="center">Hey There,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mariam Skaria :)</h1>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariamSkaria&theme=github-compact&height=300" alt="GitHub Activity Graph">
-<h3 align="left"><p>Hello Mr Passionate! <p/>I'm a passionate developer with a strong foundation in programming and a keen interest in user experience design. I specialize in Python and SQL, where I enjoy building efficient applications and working with data to derive insights and solve problems. </h3>
+<h3 align="left"><p>Hello!!<p/> I'm a passionate developer with a strong foundation in programming and a keen interest in user experience design. I specialize in Python and SQL, where I enjoy building efficient applications and working with data to derive insights and solve problems. </h3>
 
 <h2><b>Skills</b></h2>
 <h3 align="left">Python: Proficient in using Python for various applications, from web development to data analysis and automation. I love exploring libraries such as Pandas, NumPy, and Flask to create impactful solutions. </h3>
