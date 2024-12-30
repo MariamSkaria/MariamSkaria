@@ -17,7 +17,7 @@
 <h3 align="left">I enjoy working on projects that challenge me and allow me to apply my skills creatively. Check out my repositories to see what I've been working on! Feel free to connect with me if you're interested in collaborating or just want to chat about technology, programming, or design!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamskaria&label=Profile%20views&color=0e75b6&style=flat" alt="mariamskaria" /> </p>
-<em>*"If debugging is the process of removing bugs, then programming must be the process of putting them in."*<em> — Edsger Dijkstra
+<p><em>*"If debugging is the process of removing bugs, then programming must be the process of putting them in."*</em> — Edsger Dijkstra </p>
 - 📫 How to reach me: mariamskaria2028@cs.ajce.in
 
 <h2><b>Connect with me</b></h2>
