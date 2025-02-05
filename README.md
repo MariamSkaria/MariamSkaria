@@ -1,5 +1,4 @@
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mariam Skaria :)</h1>
-<h2 align="center"><b>📊 My Contribution Graph</b></h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariamSkaria&theme=github-compact&height=300" alt="GitHub Activity Graph">
 <h3 align="left"><p>Hello!!<p/> I'm a passionate developer with a strong foundation in programming and a keen interest in user experience design. I specialize in Python and SQL, where I enjoy building efficient applications and working with data to derive insights and solve problems. </h3>
 
