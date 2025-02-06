@@ -14,7 +14,8 @@
 <h3 align="left">UI/UX Design: I have a growing interest in UI/UX design, and I am eager to learn how to create user-centered interfaces that are not only functional but also aesthetically pleasing. I believe that a good user experience is essential for the success of any application.</h3> 
 
 <h2 align="center"><b>Projects</b></h2>
-<h3 align="left">I enjoy working on projects that challenge me and allow me to apply my skills creatively. Check out my repositories to see what I've been working on! Feel free to connect with me if you're interested in collaborating or just want to chat about technology, programming, or design!</h3>
+<h3 align="left">I enjoy working on projects that challenge me and allow me to apply my skills creatively.</h3>
+Check out my repositories to see what I've been working on! Feel free to connect with me if you're interested in collaborating or just want to chat about technology, programming, or design!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamskaria&label=Profile%20views&color=0e75b6&style=flat" alt="mariamskaria" /> </p>
 <p><em>*"If debugging is the process of removing bugs, then programming must be the process of putting them in."*</em> — Edsger Dijkstra </p>
