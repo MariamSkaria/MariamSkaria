@@ -1,12 +1,10 @@
 
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mariam Skaria </h1>
-<img src="profile.jpg"&height="500">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariamSkaria&theme=github-compact&height=300" alt="GitHub Activity Graph">
 <h3 align="left"><p>Hello!!<p/> I'm a passionate developer with a strong foundation in programming and a keen interest in user experience design. I specialize in Python and SQL, where I enjoy building efficient applications and working with data to derive insights and solve problems. </h3>
 <h2 align="center"><b>Skills</b></h2>
 <h3 align="left">Python: Proficient in using Python for various applications, from web development to data analysis and automation. I love exploring libraries such as Pandas, NumPy, and Flask to create impactful solutions. </h3>
 <h3 align="left">SQL: Experienced in database management and querying with SQL. I enjoy optimizing queries and designing relational databases to efficiently store and retrieve data. </h3>
-
 
 <h2 align="center"><b>Currently Learning</b></h2>
 <h3 align="left">Go (Golang): To expand my skill set and enhance my ability to build scalable and high-performance applications. I'm excited about its concurrency features and simplicity. </h3>
@@ -16,7 +14,10 @@
 
 <h2 align="center"><b>Projects</b></h2>
 <h3 align="left">I enjoy working on projects that challenge me and allow me to apply my skills creatively.</h3>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s">
 <h3>Check out my repositories to see what I've been working on! Feel free to connect with me if you're interested in collaborating or just want to chat about technology, programming, or design!</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamskaria&label=Profile%20views&color=0e75b6&style=flat" alt="mariamskaria" /> </p>
 <p><em>*"If debugging is the process of removing bugs, then programming must be the process of putting them in."*</em> — Edsger Dijkstra </p>
