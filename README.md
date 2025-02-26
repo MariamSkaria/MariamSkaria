@@ -17,7 +17,7 @@
 <p>I enjoy working on projects that challenge me and allow me to apply my skills creatively.</p>
 <img align="right" alt="coding" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I5ODB0eHFmdTh2Y3JjYXEyZmp0a3JtbTl6YjhoMmc1bjE1ajNkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 <p>Check out my repositories to see what I've been working on! Feel free to connect with me if you're interested in collaborating or just want to chat about technology, programming, or design!</p>
-
+<br />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamskaria&label=Profile%20views&color=0e75b6&style=flat" alt="mariamskaria" /> </p>
