@@ -1,21 +1,22 @@
 
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mariam Skaria </h1>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariamSkaria&theme=github-compact&height=300" alt="GitHub Activity Graph">
-<h3 align="left"><p>Hello!!<p/> I'm a passionate developer with a strong foundation in programming and a keen interest in user experience design. I specialize in Python and SQL, where I enjoy building efficient applications and working with data to derive insights and solve problems. </h3>
+<p>Hello!!<p/>
+ <p>I'm a passionate developer with a strong foundation in programming and a keen interest in user experience design. I specialize in Python and SQL, where I enjoy building efficient applications and working with data to derive insights and solve problems. </p>
 <h2 align="center"><b>Skills</b></h2>
-<h3 align="left">Python: Proficient in using Python for various applications, from web development to data analysis and automation. I love exploring libraries such as Pandas, NumPy, and Flask to create impactful solutions. </h3>
-<h3 align="left">SQL: Experienced in database management and querying with SQL. I enjoy optimizing queries and designing relational databases to efficiently store and retrieve data. </h3>
+<p></p>Python: Proficient in using Python for various applications, from web development to data analysis and automation. I love exploring libraries such as Pandas, NumPy, and Flask to create impactful solutions. </p>
+<p></p>SQL: Experienced in database management and querying with SQL. I enjoy optimizing queries and designing relational databases to efficiently store and retrieve data. </p>
 
 <h2 align="center"><b>Currently Learning</b></h2>
-<h3 align="left">Go (Golang): To expand my skill set and enhance my ability to build scalable and high-performance applications. I'm excited about its concurrency features and simplicity. </h3>
+<p>Go (Golang): To expand my skill set and enhance my ability to build scalable and high-performance applications. I'm excited about its concurrency features and simplicity. </p>
 
 <h2><b>Interests</b></h2>
-<h3 align="left">UI/UX Design: I have a growing interest in UI/UX design, and I am eager to learn how to create user-centered interfaces that are not only functional but also aesthetically pleasing. I believe that a good user experience is essential for the success of any application.</h3> 
+<p>UI/UX Design: I have a growing interest in UI/UX design, and I am eager to learn how to create user-centered interfaces that are not only functional but also aesthetically pleasing. I believe that a good user experience is essential for the success of any application.</p> 
 
 <h2 align="center"><b>Projects</b></h2>
-<h3 align="left">I enjoy working on projects that challenge me and allow me to apply my skills creatively.</h3>
+<p>I enjoy working on projects that challenge me and allow me to apply my skills creatively.</p>
 <img align="right" alt="coding" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I5ODB0eHFmdTh2Y3JjYXEyZmp0a3JtbTl6YjhoMmc1bjE1ajNkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
-<h3>Check out my repositories to see what I've been working on! Feel free to connect with me if you're interested in collaborating or just want to chat about technology, programming, or design!</h3>
+<p>Check out my repositories to see what I've been working on! Feel free to connect with me if you're interested in collaborating or just want to chat about technology, programming, or design!</p>
 
 
 
