@@ -14,18 +14,16 @@
 
 <h2 align="center"><b>Projects</b></h2>
 <h3 align="left">I enjoy working on projects that challenge me and allow me to apply my skills creatively.</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s">
+<img align="right" alt="coding" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I5ODB0eHFmdTh2Y3JjYXEyZmp0a3JtbTl6YjhoMmc1bjE1ajNkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 <h3>Check out my repositories to see what I've been working on! Feel free to connect with me if you're interested in collaborating or just want to chat about technology, programming, or design!</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamskaria&label=Profile%20views&color=0e75b6&style=flat" alt="mariamskaria" /> </p>
 <p><em>*"If debugging is the process of removing bugs, then programming must be the process of putting them in."*</em> — Edsger Dijkstra </p>
-- 📫 How to reach me: mariamskaria2028@cs.ajce.in
 
 <h2 align="center"><b>Connect with me</b></h2>
 📫 Reach me: mariamskaria2028@cs.ajce.in
-
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mariam-skaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam skaria" height="50" width="140" /></a>
