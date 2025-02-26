@@ -23,11 +23,12 @@
 <p><em>*"If debugging is the process of removing bugs, then programming must be the process of putting them in."*</em> — Edsger Dijkstra </p>
 
 <h2 align="center"><b>Connect with me</b></h2>
-📫 Reach me: mariamskaria2028@cs.ajce.in
-<p align="left">
+<div align="center">
+ <a href="https://linktr.ee/mariamse336" style="text-decoration: none;"><img width="58" height="58" src="https://img.icons8.com/pulsar-gradient/48/linktree.png" alt="linktree"/></a>
+ <a href="https://www.linkedin.com/in/mariam-skaria/" style="text-decoration: none;">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/></a> <a href="https://www.instagram.com/mariam_se33" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="60" height="60"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mariamse336@gmail.com" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="60" height="60"/></a>
 
-<a href="https://www.linkedin.com/in/mariam-skaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam skaria" height="50" width="140" /></a>
-</p>
+</div>
 
 <h2><b>🛠️ Languages and Tools</b></h2>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="140" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="140" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="140" height="50"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="140" height="50"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="140" height="50"/> </a> </p>
