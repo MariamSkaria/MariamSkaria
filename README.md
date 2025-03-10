@@ -12,7 +12,7 @@
 <h2><b>Interests</b></h2>
 <p>UI/UX Design: I have a growing interest in UI/UX design, and I am eager to learn how to create user-centered interfaces that are not only functional but also aesthetically pleasing. I believe that a good user experience is essential for the success of any application.</p> 
 
-<h2 align="center"><b>Projects</b></h2>
+<h2><b>Projects</b></h2>
 <p>I enjoy working on projects that challenge me and allow me to apply my skills creatively.</p>
 <img align="right" alt="coding" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I5ODB0eHFmdTh2Y3JjYXEyZmp0a3JtbTl6YjhoMmc1bjE1ajNkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 <p>Check out my repositories to see what I've been working on! Feel free to connect with me if you're interested in collaborating or just want to chat about technology, programming, or design!</p>
