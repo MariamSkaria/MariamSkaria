@@ -6,7 +6,7 @@
 <p></p>Python: Proficient in using Python for various applications, from web development to data analysis and automation. I love exploring libraries such as Pandas, NumPy, and Flask to create impactful solutions. </p>
 <p></p>SQL: Experienced in database management and querying with SQL. I enjoy optimizing queries and designing relational databases to efficiently store and retrieve data. </p>
 
-<h2 align="center"><b>Currently Learning</b></h2>
+<h2><b>Currently Learning</b></h2>
 <p>Go (Golang): To expand my skill set and enhance my ability to build scalable and high-performance applications. I'm excited about its concurrency features and simplicity. </p>
 
 <h2 align="center"><b>Interests</b></h2>
