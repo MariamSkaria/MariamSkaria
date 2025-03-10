@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamskaria&label=Profile%20views&color=0e75b6&style=flat" alt="mariamskaria" /> </p>
 <p><em>*"If debugging is the process of removing bugs, then programming must be the process of putting them in."*</em> — Edsger Dijkstra </p>
 
-<h2 align="center"><b>Connect with me</b></h2>
+<h2><b>Connect with me</b></h2>
 <div align="left">
  <a href="https://linktr.ee/mariamse336" style="text-decoration: none;"><img width="58" height="58" src="https://img.icons8.com/pulsar-gradient/48/linktree.png" alt="linktree"/></a>
  <a href="https://www.linkedin.com/in/mariam-skaria/" style="text-decoration: none;">
