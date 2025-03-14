@@ -23,7 +23,7 @@
 <p><em>*"If debugging is the process of removing bugs, then programming must be the process of putting them in."*</em> — Edsger Dijkstra </p>
 
 <h2><b>Connect with me</b></h2>
-<div align="left">
+<div align="center">
  <a href="https://linktr.ee/mariamse336" style="text-decoration: none;"><img width="58" height="58" src="https://img.icons8.com/pulsar-gradient/48/linktree.png" alt="linktree"/></a>
  <a href="https://www.linkedin.com/in/mariam-skaria/" style="text-decoration: none;">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/></a> <a href="https://www.instagram.com/mariam_se33" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="60" height="60"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mariamse336@gmail.com" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="60" height="60"/></a>
