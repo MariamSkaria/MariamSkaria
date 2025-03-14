@@ -26,7 +26,7 @@
 <div align="left">
  <a href="https://linktr.ee/mariamse336" style="text-decoration: none;"><img width="46" height="46" src="https://img.icons8.com/pulsar-gradient/48/linktree.png" alt="linktree"/></a>
  <a href="https://www.linkedin.com/in/mariam-skaria/" style="text-decoration: none;">
-  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/></a> <a href="https://www.instagram.com/mariam_se33" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="60" height="60"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mariamse336@gmail.com" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="60" height="60"/></a>
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/></a> <a href="https://www.instagram.com/mariam_se33" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="48" height="48"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mariamse336@gmail.com" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="48" height="48"/></a>
  
 </div>
 
